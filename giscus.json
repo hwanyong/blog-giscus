@@ -1,5 +1,5 @@
 {
-  "origins": ["https://blog.hwanyong.com"],
+  "origins": ["https://hwanyong.com", "https://blog.hwanyong.com"],
   "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "oldest"
 }

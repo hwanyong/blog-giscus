@@ -1,10 +1,12 @@
 # blog-giscus
 
-Comments for [blog.hwanyong.com](https://blog.hwanyong.com).
+Comments for [hwanyong.com](https://hwanyong.com) and
+[blog.hwanyong.com](https://blog.hwanyong.com).
 
 Each discussion in the **Announcements** category is one comment thread of the
-[giscus](https://giscus.app) widget on that site. The site's own source is not in
-this repository.
+[giscus](https://giscus.app) widget on those two sites. Both are built from one
+source, which is not in this repository. Since 2026-09-15 the Log section is
+served from blog.hwanyong.com and everything else from hwanyong.com.
 
 ## Why the comments are kept apart from the site
 
